@@ -19,6 +19,8 @@ Repositorio práctico en español con comandos de Git para resolver situaciones 
 | [09 — Tags](guias/09-tags.md) | Versiones y puntos de restauración |
 | [10 — Buenas prácticas](guias/10-buenas-practicas.md) | Flujo de trabajo más seguro |
 | [11 — GitHub y contribuciones](guias/11-github-y-contribuciones.md) | Qué actividad cuenta en tu perfil |
+| [12 — Cherry-pick](guias/12-cherry-pick.md) | Aplicar commits concretos entre ramas |
+| [13 — Git clean](guias/13-clean-y-archivos-no-rastreados.md) | Limpiar archivos no rastreados con seguridad |
 | [Cheatsheet](CHEATSHEET.md) | Resumen rápido de comandos |
 
 ## 🧪 Casos prácticos
